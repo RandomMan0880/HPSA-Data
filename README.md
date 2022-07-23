@@ -6,3 +6,4 @@ Skills Used:
 Languages: Python, SQL
 Packages: Psycopg2, SQLAlchemy, Pandas, Regex
 Visualizations: Tableau, Plotly
+
