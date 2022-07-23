@@ -4,6 +4,10 @@ HPSA, short for "Health Professional Shortage Area", is a federal government ter
 
 Skills Used:
 Languages: Python, SQL
+
 Packages: Psycopg2, SQLAlchemy, Pandas, Regex
+
 Visualizations: Tableau, Plotly
+
+![image](https://user-images.githubusercontent.com/71114407/180602915-1b547bcf-9fc4-498a-bc32-4fe43fc81759.png)
 
