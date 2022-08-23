@@ -15,7 +15,8 @@ Environment: Linux (Ubuntu)
 
 
 
-My visualizations of healthcare shortage areas in the US. Higher numbers indicate greater severity of staffing deficits.
+My visualizations of existing and predicted healthcare shortage areas in the US. Higher numbers indicate greater severity of staffing deficits. 
 
-![image](https://user-images.githubusercontent.com/71114407/180602915-1b547bcf-9fc4-498a-bc32-4fe43fc81759.png)
+![Untitled drawing (2)1024_1](https://user-images.githubusercontent.com/71114407/186111034-85252387-ee96-4965-a4e0-58efd24cae2d.jpg)
+
 
