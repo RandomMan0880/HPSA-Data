@@ -2,6 +2,8 @@
 
 <b> Important Note: </b> Because data used in this project is not able to be shared, this notebook cannot be downloaded and run. Instead, feel free to peruse the code by opening the ipython notebook on Github. Click this link if you are having trouble opening the notebook: <a href='https://github.com/RandomMan0880/HPSA-Data/blob/main/HPSA_Predictor.ipynb'> LINK </a>
 
+Non-Technical Interview: Would you like a non-technical overview of this project? Find it here: <a href='https://docs.google.com/presentation/d/1jkNVO_A1r9CNw_EyG7V1Q5Gx_-CzEAyzoD2Rs0QVinw/edit?usp=sharing'> LINK </a>
+
 HPSA, short for "Health Professional Shortage Area", is a federal government term for a specific region, facility, or location that is experiencing a shortage of healthcare professionals. HPSA Scores are regularly reviewed and updated by the National Health Service Corps in determining priority of assignment of clinicians to certain areas. The scores range from 0 to 26 where the higher the score, the greater the priority. In this project, I will train a Random Forest model using the new Tensorflow Decision Forests package to predict Primary Care HPSA scores based on various location metrics (county income, unemployment rate, etc) using features taken from other government websites such as the US Bureau of Labor Statistics and wrangling them together with SQL.
 
 Skills Used:
